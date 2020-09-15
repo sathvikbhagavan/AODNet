@@ -16,6 +16,16 @@ you can upload your image and get the dehazed image and download it
 
 Dataset used was : https://sites.google.com/site/boyilics/website-builder/project-page
 
+### Examples 
+
+1. ![Exmaple-1](/test_images/test-2.jpg)  ![Exmaple-1](/test_images/test-2-output.jpeg) 
+
+2. ![Exmaple-2](/test_images/test-6.jpg)  ![Exmaple-2](/test_images/test-6-output.jpeg)
+
+3. ![Exmaple-3](/test_images/test-7.jpg)  ![Exmaple-1](/test_images/test-7-output.jpeg) 
+
+4. ![Exmaple-1](/test_images/test-8.jpg)  ![Exmaple-1](/test_images/test-8-output.jpeg) 
+
 ### References
 
 ```
