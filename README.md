@@ -18,13 +18,13 @@ Dataset used was : https://sites.google.com/site/boyilics/website-builder/projec
 
 ### Examples 
 
-![Exmaple-1](/test_images/test-2.jpg)  ![Exmaple-1](/test_images/test-2-output.jpeg) 
+![Exmaple-1](/test_images/test-1.jpg)  ![Exmaple-1](/test_images/test-1-output.jpeg) 
 
-![Exmaple-2](/test_images/test-6.jpg)  ![Exmaple-2](/test_images/test-6-output.jpeg)
+![Exmaple-2](/test_images/test-2.jpg)  ![Exmaple-2](/test_images/test-2-output.jpeg)
 
-![Exmaple-3](/test_images/test-7.jpg)  ![Exmaple-1](/test_images/test-7-output.jpeg) 
+![Exmaple-3](/test_images/test-3.jpg)  ![Exmaple-1](/test_images/test-3-output.jpeg) 
 
-![Exmaple-1](/test_images/test-8.jpg)  ![Exmaple-1](/test_images/test-8-output.jpeg) 
+![Exmaple-1](/test_images/test-4.jpg)  ![Exmaple-1](/test_images/test-4-output.jpeg) 
 
 ### References
 
