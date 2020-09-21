@@ -11,7 +11,7 @@ To test, download the code, install all requirements and run the streamlit web a
 
 #### streamlit run aod_webapp.py 
 
-you can upload your image and get the dehazed image and download it
+you can upload your image and get the haze free image and download it
 
 
 Dataset used was : https://sites.google.com/site/boyilics/website-builder/project-page
