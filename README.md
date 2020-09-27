@@ -7,6 +7,8 @@ End to end Deep Learning Model to remove haze from images written in Tensorflow 
 Requirements:
 Tensorflow, OpenCV, Numpy, Streamlit, Pillow
 
+Used Python Version 3.7
+
 To test, download the code, install all requirements and run the streamlit web application as:
 
 #### streamlit run aod_webapp.py 
